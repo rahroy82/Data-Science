@@ -1,4 +1,4 @@
-# Telecom Customer Churn Prediction (RTCP Phase 3 Project)
+# Telecom Customer Churn Prediction - Phase 3 Project
 
 ## 📘 Overview
 This project uses machine learning to predict telecom customer churn — identifying which customers are most likely to leave.  
